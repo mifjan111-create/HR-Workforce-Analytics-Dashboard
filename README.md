@@ -7,61 +7,73 @@ HR leaders require workforce insights to monitor employee attrition, workforce d
 
 **Tools Used**
 
--Power BI
+•	Power BI
 
--Excel
+•	Excel
 
--DAX
+•	DAX
 
 **Dashboard KPIs**
 
--Total Employees
+•	Total Employees
 
--Attrition Count
+•	Attrition Count
 
--Attrition Rate
+•	Attrition Rate
 
--Average Age
+•	Average Age
 
--Average Experience
+•	Average Experience
 
-**Key Insights**
-
--Attrition was highest in selected departments.
-
--Majority of employees belonged to the 26-35 age group.
-
--Salary level showed a relationship with attrition patterns.
-
--Workforce distribution varied significantly across departments.
+•	Active Workforce Distribution
 
 **Dashboard Features**
 
--Attrition Analysis
+•	Attrition Analysis by Department
 
--Department Analysis
+•	Attrition Analysis by Salary Slab
 
--Age Group Distribution
+•	Employee Demographics
 
--Gender Analysis
+•	Age Group Distribution
 
--Salary Analysis
+•	Gender Distribution
 
--Workforce Demographics
+•	Department Workforce Analysis
+
+•	Salary Insights
+
+**Key Insights**
+
+•	Attrition was concentrated in selected departments.
+
+•	Employees aged 26–35 represented the largest workforce segment.
+
+•	Salary levels influenced attrition trends.
+
+•	Workforce distribution varied significantly across departments.
+
+•	Departmental headcount trends highlighted workforce concentration areas.
 
 **Skills Demonstrated**
 
--HR Analytics
+•	Workforce Analytics
 
--Workforce Reporting
+•	HR Reporting
 
--Power BI
+•	KPI Development
 
--DAX
+•	DAX Calculations
 
--KPI Development
+•	Data Visualization
 
--Dashboard Design
+•	Power BI Dashboard Design
+
+•	Data Storytelling
 
 **Dashboard Preview**
-<img width="1531" height="846" alt="Dashboard" src="https://github.com/user-attachments/assets/013d55f7-bb7c-43a4-a27e-51648506fee6" />
+<img width="1531" height="846" alt="Dashboard" src="https://github.com/user-attachments/assets/2e2baa7f-924d-4d30-96ec-759c287552ec" />
+
+**Business Impact**
+This dashboard provides HR stakeholders with actionable workforce insights, helping support employee retention strategies, workforce planning, and organizational decision-making.
+
